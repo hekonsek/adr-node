@@ -1,0 +1,4 @@
+syllabus:
+  description: Guidance for Node architecture and tooling choices.
+  topics:
+    - TypeScript vs JavaScript
