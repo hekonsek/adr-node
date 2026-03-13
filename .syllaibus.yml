@@ -2,4 +2,7 @@ syllabus:
   description: Guidance for Node architecture and tooling choices.
   topics:
     - TypeScript vs JavaScript
-    - Hexagonal architecture
+    - Design practicies
+      - Options object for optional parameters
+      - Hexagonal architecture
+  
