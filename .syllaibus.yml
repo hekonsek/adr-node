@@ -6,3 +6,6 @@ syllabus:
       - Options object for optional parameters
       - Error handling
       - Hexagonal architecture
+    - CI/CD
+      - npm ci
+      - npm run build
